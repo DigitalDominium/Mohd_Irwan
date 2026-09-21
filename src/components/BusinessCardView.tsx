@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { RHBLogo } from './RHBLogo';
 import { PROFILE_DATA } from '../data/profileData';
 import { Phone, Mail, Globe, MapPin, QrCode, Sparkles, RotateCw, ExternalLink } from 'lucide-react';
-import portraitImg from '../assets/images/executive_portrait_1789966401843.jpg';
+import portraitImg from '../assets/images/irwan_official_portrait_1789967219785.jpg';
 
 interface BusinessCardViewProps {
   onOpenQR: () => void;
