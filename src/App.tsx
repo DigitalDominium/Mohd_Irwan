@@ -9,7 +9,7 @@ import { QRCodeModal } from './components/QRCodeModal';
 import { InquiryModal } from './components/InquiryModal';
 import { PROFILE_DATA } from './data/profileData';
 import { downloadVCard } from './utils/vcard';
-import portraitImg from './assets/images/irwan_official_portrait_1789967219785.jpg';
+import portraitImg from './assets/images/executive_portrait.jpg';
 import {
   MessageCircle,
   Mail,

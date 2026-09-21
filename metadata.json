@@ -2,5 +2,7 @@
   "name": "Mohd Irwan AK - RHB Bank Business Profile",
   "description": "Executive digital business card, contact details, and professional portfolio for Mohd Irwan AK, Assistant Sales Manager at RHB Bank Berhad.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
